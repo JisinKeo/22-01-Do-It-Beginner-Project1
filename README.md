@@ -1,3 +1,19 @@
+
+
+
+
+
+<img width="491" alt="스크린샷 2022-06-13 오후 2 55 05" src="https://user-images.githubusercontent.com/97288251/173290375-082ffaf9-7984-41d7-bec8-8e47f1395a7f.png">
+
+
+
+
+
+
+
+
+
+
 # 22-01-Do-It-Project1
 2022년도 1학기 아주대학교 중앙동아리 Do-It 에서 진행하는 FE - 초급  스터디 관리 레포입니다.
 
