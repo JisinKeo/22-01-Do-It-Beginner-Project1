@@ -1,17 +1,30 @@
 
+메인 페이지
+<img width="491" alt="스크린샷 2022-06-13 오후 2 55 05" src="https://user-images.githubusercontent.com/97288251/173290469-87721f45-2da2-4687-a86c-9859fb1df038.png">
 
+Frame 2
+<img width="486" alt="스크린샷 2022-06-13 오후 2 55 19" src="https://user-images.githubusercontent.com/97288251/173290708-3c411978-d4bf-4b97-94a8-3de5e9d8c2b7.png">
 
+글쓰기
+<img width="491" alt="스크린샷 2022-06-13 오후 2 55 43" src="https://user-images.githubusercontent.com/97288251/173290770-b2918c21-74db-4e3b-abdb-ca5d08cdc50d.png">
 
+글 상세페이지
+<img width="502" alt="스크린샷 2022-06-13 오후 2 57 07" src="https://user-images.githubusercontent.com/97288251/173290777-29782001-194b-4aeb-91ab-8619ca2a21d0.png">
 
-<img width="491" alt="스크린샷 2022-06-13 오후 2 55 05" src="https://user-images.githubusercontent.com/97288251/173290375-082ffaf9-7984-41d7-bec8-8e47f1395a7f.png">
+글 삭제페이지
+<img width="502" alt="스크린샷 2022-06-13 오후 2 58 34" src="https://user-images.githubusercontent.com/97288251/173290813-6bb4c020-053e-4d69-afef-15518f25185b.png">
 
+수정하기
+<img width="458" alt="스크린샷 2022-06-13 오후 3 00 37" src="https://user-images.githubusercontent.com/97288251/173290833-e5bc4714-d952-4f74-9b17-cf0b6da4e8c6.png">
 
+로그인 페이지
+<img width="455" alt="스크린샷 2022-06-13 오후 3 01 13" src="https://user-images.githubusercontent.com/97288251/173290849-23a99b89-6257-4c9b-a9e8-54ec7bd90a5c.png">
 
+회원가입 페이지
+<img width="458" alt="스크린샷 2022-06-13 오후 3 02 07" src="https://user-images.githubusercontent.com/97288251/173290856-2ecb8ac6-3ef5-4e22-b4f0-b514b371b7b4.png">
 
-
-
-
-
+로그인 후
+<img width="455" alt="스크린샷 2022-06-13 오후 3 04 55" src="https://user-images.githubusercontent.com/97288251/173290867-40402bd1-b935-422b-8664-c02f3ca7e80b.png">
 
 
 # 22-01-Do-It-Project1
